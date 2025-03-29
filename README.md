@@ -1,7 +1,3 @@
-Here is your Starbucks Dashboard content formatted like the Supermarket Sales Dashboard:  
-
----
-
 # Starbucks Dashboard ☕📊  
 
 ## Project Objective 🎯  
@@ -10,7 +6,7 @@ The objective of this project is to analyze Starbucks beverages based on key nut
 
 ## Dataset Used 📂  
 
-- [Starbucks Beverage Dataset](#) *(Replace with actual dataset link if available)*  
+- [Starbucks Beverage Dataset]()
 
 ## Questions (KPIs) ❓  
 
@@ -21,8 +17,7 @@ The objective of this project is to analyze Starbucks beverages based on key nut
 - How do sugar and caffeine levels compare across different beverages? 🍬  
 - What are the healthiest beverage options based on sugar and calorie content? 🥤  
 
-**Dashboard Interaction:** [View Dashboard](#) *(Replace with actual link if available)*  
-
+**Dashboard Interaction:** [View Dashboard]() 
 ## Process 🔄  
 
 - Cleaned and categorized beverage data 🧹.  
@@ -32,7 +27,8 @@ The objective of this project is to analyze Starbucks beverages based on key nut
 
 ## Dashboard 📊  
 
-![Starbucks Dashboard](#) *(Replace with actual dashboard image link if hosted online)*  
+![Starbucks](https://github.com/user-attachments/assets/692ab0a3-924d-4468-bab5-5e51458a9e6c)
+
 
 ## Insights 💡  
 
