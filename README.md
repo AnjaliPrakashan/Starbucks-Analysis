@@ -10,14 +10,17 @@ The objective of this project is to analyze Starbucks beverages based on key nut
 
 ## Questions (KPIs) ❓  
 
-- What are the different beverage categories available?  
-- Which beverage has the highest calorie content? 🔥  
-- Which Starbucks drink contains the most caffeine? ☕  
-- What is the correlation between calories and carbohydrates? 📊  
-- How do sugar and caffeine levels compare across different beverages? 🍬  
-- What are the healthiest beverage options based on sugar and calorie content? 🥤  
+1️⃣ What are the unique beverage categories and their counts? 🏷️📊
+2️⃣ What are the different beverage preparation types? ☕🔄
+3️⃣ Which beverages have the highest and lowest calories? 🔥⚖️
+4️⃣ Which beverages have the most caffeine? ☕⚡
+5️⃣ Which beverages contain zero sugar? 🚫🍬
+6️⃣ Is there a correlation between calories and carbohydrates? 🔄🍞
+7️⃣ How are caffeine and sugar related? ☕🍬➡️❓
+8️⃣ Which beverages are the healthiest? 🥗🥤
 
 **Dashboard Interaction:** [View Dashboard](https://github.com/AnjaliPrakashan/Starbucks-Analysis/blob/main/Starbucks.png) 
+
 ## Process 🔄  
 
 - Cleaned and categorized beverage data 🧹.  
