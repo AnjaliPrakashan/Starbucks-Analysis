@@ -6,7 +6,7 @@ The objective of this project is to analyze Starbucks beverages based on key nut
 
 ## Dataset Used 📂  
 
-- [Starbucks Beverage Dataset]()
+- [Starbucks Beverage Dataset](https://github.com/AnjaliPrakashan/Starbucks-Analysis/blob/main/starbucks_cleaned.csv)
 
 ## Questions (KPIs) ❓  
 
@@ -17,7 +17,7 @@ The objective of this project is to analyze Starbucks beverages based on key nut
 - How do sugar and caffeine levels compare across different beverages? 🍬  
 - What are the healthiest beverage options based on sugar and calorie content? 🥤  
 
-**Dashboard Interaction:** [View Dashboard]() 
+**Dashboard Interaction:** [View Dashboard](https://github.com/AnjaliPrakashan/Starbucks-Analysis/blob/main/Starbucks.png) 
 ## Process 🔄  
 
 - Cleaned and categorized beverage data 🧹.  
