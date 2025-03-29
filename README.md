@@ -46,9 +46,8 @@ The Starbucks Dashboard provides insights into beverage nutrition, highlighting 
 
 If you have any questions, feedback, or inquiries about this project, feel free to reach out!  
 
-### Contact Information 📞  
+- **Email**: [anjaliprakashan1809@gmail.com](mailto:anjaliprakashan1809@gmail.com)
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com) *(Replace with your email)*  
-- **LinkedIn**: [Your Name](#) *(Replace with actual LinkedIn profile link)*  
+- **LinkedIn**: [Anjali Prakashan](https://www.linkedin.com/in/anjali-prakashan)
+- Feel free to reach out for any queries, feedback, or collaborations!
 
-Feel free to connect for discussions, feedback, or collaborations! 🚀
